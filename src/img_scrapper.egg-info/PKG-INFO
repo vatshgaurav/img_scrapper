@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: img-scrapper
-Version: 0.0.11
+Version: 0.0.12
 Summary: python package to scrap image from google image search
 Author: Gaurav Vatsh
 Author-email: vatshgaurav@gmail.com
