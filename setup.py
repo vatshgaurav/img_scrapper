@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="img_scrapper",
-    version="0.0.12",
+    version="0.0.13",
     description="python package to scrap image from google image search",
     author="Gaurav Vatsh",
     author_email="vatshgaurav@gmail.com",
