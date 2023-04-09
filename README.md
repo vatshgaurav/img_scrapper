@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=""><br>
+</div>
+
 # img_scrapper
 
 A Python package to scrape and download images from Google search using
@@ -8,25 +12,26 @@ BeautifulSoup and Requests libraries.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 img_scrapper.
 
-'''
-pip install img_scrapper
-'''
+```sh
+#PyPi
+pip install img-scrapper
+```
+
 
 ## Usage
 
-'''
-
+```python
 from img_scrapper import get_original_images
 
 images = get_original_images('Spotify', download=False)
+```
 
-'''
 
-• The script will display the first image it finds in the search
+* The script will display the first image it finds in the search
 results. If you want to download the image, set download=True in the
 get_original_images function call.
 
-• The downloaded images will be saved in the Bs4_Img directory.
+* The downloaded images will be saved in the Bs4_Img directory.
 
 ## Contributing
 

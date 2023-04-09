@@ -119,4 +119,4 @@ def get_original_images(query, download=False):
     return google_images
 
 
-print(get_original_images("Spotify"))
+# print(get_original_images("Spotify"))
