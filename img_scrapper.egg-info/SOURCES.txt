@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-img_scrapper.egg-info/PKG-INFO
-img_scrapper.egg-info/SOURCES.txt
-img_scrapper.egg-info/dependency_links.txt
-img_scrapper.egg-info/requires.txt
-img_scrapper.egg-info/top_level.txt
