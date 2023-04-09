@@ -2,10 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="img_scrapper",
-    version="0.0.10",
+    version="0.0.11",
     description="python package to scrap image from google image search",
     author="Gaurav Vatsh",
     author_email="vatshgaurav@gmail.com",
+    package_dir={"": "src"},
     packages=find_packages(),
     install_requires=[
         "beautifulsoup4==4.12.2",
