@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="img_scrapper",
-    version="0.0.16",
+    version="0.0.17",
     description="python package to scrap image from google image search",
     long_description_content_type="text/markdown",
     long_description=long_description,

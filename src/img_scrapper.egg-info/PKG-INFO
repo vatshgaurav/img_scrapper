@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: img-scrapper
-Version: 0.0.16
+Version: 0.0.17
 Summary: python package to scrap image from google image search
 Home-page: https://github.com/vatshgaurav/img_scrapper
 Author: Gaurav Vatsh
@@ -13,7 +13,7 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 <div align="center">
-  <img src=""><br>
+  <img src="https://raw.githubusercontent.com/vatshgaurav/img_scrapper/dev-1/logo/img_scrapper_logo.png"><br>
 </div>
 
 # img_scrapper

@@ -4,8 +4,8 @@ README.md
 requirements.txt
 run.py
 setup.py
-dist/img_scrapper-0.0.16-py3-none-any.whl
-dist/img_scrapper-0.0.16.tar.gz
+dist/img_scrapper-0.0.17-py3-none-any.whl
+dist/img_scrapper-0.0.17.tar.gz
 src/__init__.py
 src/img_scrapper.py
 src/__pycache__/img_scrapper.cpython-310.pyc
