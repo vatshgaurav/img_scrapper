@@ -10,7 +10,7 @@ img_scrapper.
 
 ```sh
 pip install img_scrapper
-'''
+```
 
 ## Usage
 
