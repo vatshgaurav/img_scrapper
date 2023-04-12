@@ -8,19 +8,19 @@ BeautifulSoup and Requests libraries.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install
 img_scrapper.
 
-'''
+```sh
 pip install img_scrapper
 '''
 
 ## Usage
 
-'''
+```python
 
 from img_scrapper import get_original_images
 
 images = get_original_images('Spotify', download=False)
 
-'''
+```
 
 • The script will display the first image it finds in the search
 results. If you want to download the image, set download=True in the
